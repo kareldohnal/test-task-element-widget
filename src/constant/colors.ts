@@ -1,0 +1,5 @@
+export const COLOR_SNOW_WHITE = "#FBF5F3"
+export const COLOR_ORANGE = "#e28413"
+export const COLOR_PRIMARY = "#0089ff"
+export const COLOR_RED = "red"
+export const COLOR_GREY = "lightgrey"
